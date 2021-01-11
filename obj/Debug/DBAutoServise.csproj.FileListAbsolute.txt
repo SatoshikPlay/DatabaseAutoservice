@@ -1,0 +1,15 @@
+D:\Курсовая\DBAutoServise\bin\Debug\Database1.mdf
+D:\Курсовая\DBAutoServise\bin\Debug\Database1_log.ldf
+D:\Курсовая\DBAutoServise\bin\Debug\DBAutoServise.exe.config
+D:\Курсовая\DBAutoServise\bin\Debug\DBAutoServise.exe
+D:\Курсовая\DBAutoServise\bin\Debug\DBAutoServise.pdb
+D:\Курсовая\DBAutoServise\obj\Debug\DBAutoServise.csprojAssemblyReference.cache
+D:\Курсовая\DBAutoServise\obj\Debug\DBAutoServise.Properties.Resources.resources
+D:\Курсовая\DBAutoServise\obj\Debug\DBAutoServise.csproj.GenerateResource.cache
+D:\Курсовая\DBAutoServise\obj\Debug\DBAutoServise.csproj.CoreCompileInputs.cache
+D:\Курсовая\DBAutoServise\obj\Debug\DBAutoServise.exe
+D:\Курсовая\DBAutoServise\obj\Debug\DBAutoServise.pdb
+D:\Курсовая\DBAutoServise\obj\Debug\DBAutoServise.EditingMode.resources
+D:\Курсовая\DBAutoServise\obj\Debug\DBAutoServise.MainWindow.resources
+D:\Курсовая\DBAutoServise\obj\Debug\DBAutoServise.PassWordWindow.resources
+D:\Курсовая\DBAutoServise\obj\Debug\DBAutoServise.CreatePass.resources
